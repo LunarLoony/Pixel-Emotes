@@ -5,7 +5,7 @@ The pack currently includes 43 different emotes, all hand-pixelled and all reall
 
 ![Pixel Emotes Preview](assets/preview.png)
 
-This pack is in two different flavours: Mono and [Chromatic](https://github.com/Phlum/PixelEmotesChromatic/)! Pick whichever suits your needs best!
+This pack is in two different flavours: Mono and Chromatic! Pick whichever suits your needs best!
 
 This pack contains a .yaml file for use with [Grav CMS](http://getgrav.org) - specifically, its Smileys plugin. To get my emotes to work right, you'll need to replace the following file:
 
