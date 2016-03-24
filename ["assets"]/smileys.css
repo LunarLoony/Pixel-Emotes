@@ -1,0 +1,8 @@
+/* This is a slightly modified smileys.css; all it does is
+   remove the maximum height for emoticons. Otherwise, some
+   of my emotes would look kinda blurry. */
+
+img.smileys {
+	display: inline-block;
+	vertical-align: baseline;
+}
