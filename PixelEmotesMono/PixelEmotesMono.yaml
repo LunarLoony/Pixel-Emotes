@@ -2,8 +2,8 @@ name: Pixel Emotes - White
 version: 1.0
 description: "A handmade set of emoticons for Grav!"
 author:
-  name: Tim Scott
-  email: 
+  name: Phlum
+  email: Phlum@users.noreply.github.com
 homepage: http://spacefarer.space
 license: GNU General Public Licence v3
 
@@ -30,7 +30,7 @@ smileys:
 
   confused:
     enabled: true
-    acronyms: ":? :-? ^~^ %-( %( ???"
+    acronyms: ":? :-? ^~^ %-( %( ??? :S"
     description: "Say what?"
 
   cool:
@@ -50,7 +50,7 @@ smileys:
 
   devil:
     enabled: true
-    acronyms: "D:< D:-< ]:-> }:-> ]:> }:> >:-] >:] >:) >;) >:-) }:-) }:) :diablo:"
+    acronyms: "D:< D:-< ]:-> }:-> ]:> }:> >:-] >:] >;) >:-) }:-) }:) :diablo:"
     description: "Devilish"
     
   evil:
