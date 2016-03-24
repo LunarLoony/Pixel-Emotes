@@ -1,0 +1,219 @@
+name: Pixel Emotes - White
+version: 1.0
+description: "A handmade set of emoticons for Grav!"
+author:
+  name: Tim Scott
+  email: 
+homepage: http://spacefarer.space
+license: GNU General Public Licence v3
+
+smileys:
+  8B:
+    enabled: true
+    acronyms: ":8B: :8b:"
+    description: "8B"
+    
+  angel:
+    enabled: true
+    acronyms: "O:-) O:) O+) O=) 0:-3 0:3 0:-) 0:) 0+) 0=) 0;^)"
+    description: "Angelic"
+
+  angry:
+    enabled: true
+    acronyms: ">:( >:-( ):( ):-( 8( )8-( )B( )B-( (:-& (:& X-( X("
+    description: "Angry"
+
+  blushing:
+    enabled: true
+    acronyms: ":'> :'-> :-. :. :v :-v :blush: ^^;"
+    description: "Blushing"
+
+  confused:
+    enabled: true
+    acronyms: ":? :-? ^~^ %-( %( ???"
+    description: "Say what?"
+
+  cool:
+    enabled: true
+    acronyms: "B) B-) 8) 8-)"
+    description: "Cool Dude"
+
+  crying:
+    enabled: true
+    acronyms: ":'-( :'( :'-) :') :*( :*-( :,( :,-("
+    description: "Crying"
+
+  cute:
+    enabled: true
+    acronyms: ":3 :-3 :} :-}"
+    description: "N'aww"
+
+  devil:
+    enabled: true
+    acronyms: "D:< D:-< ]:-> }:-> ]:> }:> >:-] >:] >:) >;) >:-) }:-) }:) :diablo:"
+    description: "Devilish"
+    
+  evil:
+    enabled: true
+    acronyms: ">:) :evil:"
+    description: "Bwahaha!"
+
+  frowning:
+    enabled: true
+    acronyms: ":( :-( +( +-( =( =-("
+    description: "Sad"
+
+  gasping:
+    enabled: true
+    acronyms: ":O :-O :0 :-0 :wow:"
+    description: "Shocked"
+
+  greedy:
+    enabled: true
+    acronyms: "$) $$) $-) $$-) $> $-> $$> $-> $$-> $_$"
+    description: "Greed is good!"
+
+  grinning:
+    enabled: true
+    acronyms: ":-D :D +D =-D =D =-3 =3 :grin:"
+    description: "Grinning"
+
+  happy_smiling:
+    enabled: true
+    acronyms: ":> :-> ^^) ^^-) ^^D ^^-D"
+    description: "Happy"
+
+  heart:
+    enabled: true
+    acronyms: "<3 <<3"
+    description: "Lovestruck"
+    
+  horrified:
+    enabled: true
+    acronyms: ":o_e:"
+    description: "Horrified"
+
+  hug:
+    enabled: true
+    acronyms: ">:D< :hug:"
+    description: "Hug"
+
+  irritated:
+    enabled: true
+    acronyms: ">_< X| X-|"
+    description: "Irritated"
+
+  kissing:
+    enabled: true
+    acronyms: ":-* :* :-{} :{} +{} ={} o3o"
+    description: "Selfie Face"
+
+  laughing:
+    enabled: true
+    acronyms: "x-D xD XD :lol: :rofl:"
+    description: "Laughing"
+
+  lips_sealed:
+    enabled: true
+    acronyms: ":-X :X :$---"
+    description: "My lips are sealed!"
+
+  madness:
+    enabled: true
+    acronyms: "8-D 8D *_* :la:"
+    description: "La la la"
+    
+  nuu:
+    enabled: true
+    acronyms: ":nuu: :noo:"
+    description: "Nuuuuuu!"
+
+  pouting:
+    enabled: true
+    acronyms: "+(( =(( :-c :c :C 8C"
+    description: "Pouting"
+    
+  rockon:
+    enabled: true
+    acronyms: "\m/ :rock:"
+    description: "Rock On!"
+
+  smiling:
+    enabled: true
+    acronyms: ":-) :) +) :o) :] :c) :> =] 8) =) :} :^)"
+    description: "Smiling"
+
+  speechless:
+    enabled: true
+    acronyms: ":-| :| =| =-| :undecided: :stare:"
+    description: "Blank Stare"
+    
+  srsface:
+    enabled: true
+    acronyms: ".-. ._. :srs:"
+    description: "Serious Face"
+
+  stupid:
+    enabled: true
+    acronyms: "8-S 8S"
+    description: "I am a dummy!"
+
+  surprised:
+    enabled: true
+    acronyms: "O_o 0_o O.o 0.o =-O =O =-o =0"
+    description: "Surprised"
+
+  surprised_2:
+    enabled: true
+    acronyms: "o_O o_0 o.O o.0 >:o >:O :-O :O #:-O :@ :-@"
+    description: "Surprised"
+
+  terrified:
+    enabled: true
+    acronyms: ":-(( :(( :-< :< :-[ :[ :{ :eek:"
+    description: "Eeeeeeek!"
+
+  thumbs_down:
+    enabled: true
+    acronyms: ":qp: :thumbsdown:"
+    description: "Thumbs Down"
+
+  thumbs_up:
+    enabled: true
+    acronyms: ":d3: :thumbsup:"
+    description: "Thumbs Up"
+
+  tired:
+    enabled: true
+    acronyms: "zO Z-O :! :-! :1 :-1 zZ :yawn:"
+    description: "Sleepy"
+
+  unsure:
+    enabled: true
+    acronyms: ":\ :-\ :\\ :-\\ =\\ =-\\"
+    description: "Unsure"
+
+  unsure_2:
+    enabled: true
+    acronyms: ":/ :-/ :// :-// =/ =-/"
+    description: "Unsure"
+    
+  verysad:
+    enabled: true
+    acronyms: ":verysad:"
+    description: "Pleeeeaaaase??"
+
+  winking:
+    enabled: true
+    acronyms: ";) ;-)"
+    description: "Winking"
+    
+  wrong:
+    enabled: true
+    acronyms: ":wrong:"
+    description: "WRONG!"
+  
+  zombie:
+    enabled: true
+    acronyms: ":zombie:"
+    description: "Braaaaaaiiins..."
