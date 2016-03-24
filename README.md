@@ -15,8 +15,9 @@ This pack contains a .yaml file for use with [Grav CMS](http://getgrav.org) - sp
 
 If you wanna use it with anything else, go right ahead! (And drop me a message if you do use them, I'd love to see!)
 
-![Hug](hug.png)
+![Hug](PixelEmotesChromatic/hug.png)
 
 # Preview
 
-![Screenshot](assets/capture.png)
+![Screenshot](assets/capture1.png)
+![Screenshot](assets/capture2.png)
