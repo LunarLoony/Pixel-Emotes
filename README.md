@@ -23,3 +23,12 @@ If you wanna use it with anything else, go right ahead! (And drop me a message i
 
 ![Screenshot](assets/capture1.png)
 ![Screenshot](assets/capture2.png)
+
+# Suggestions
+
+If you want to suggest a new emoticon that needs adding, [submitting an issue](https://github.com/Phlum/Pixel-Emotes/issues) is the easiest way to do so. All I need to know is the following info:
+
+    Emotion to portray (e.g. happy, confused, surprised, embarrassed)
+    Shorthand (e.g. :) :S O_o ^^;)
+
+Another option is to put your own emote together using one of the bases provided, and [create a pull request](https://github.com/Phlum/Pixel-Emotes/pulls). If the emote is of a high enough standard, it may be added to the pack!
