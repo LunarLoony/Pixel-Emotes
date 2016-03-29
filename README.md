@@ -1,5 +1,7 @@
 # ![Grav Smileys Data Pack - Pixel Emotes](assets/logo.png)
 
+[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+
 Pixel Emotes is a pack of emoticons designed for use with text (of course!)
 The pack currently includes 43 different emotes, all hand-pixelled and all really damn cute.
 
