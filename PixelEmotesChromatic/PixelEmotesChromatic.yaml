@@ -8,11 +8,6 @@ homepage: http://spacefarer.space
 license: GNU General Public Licence v3
 
 smileys:
-  8B:
-    enabled: true
-    acronyms: ":8B: :8b:"
-    description: "8B"
-    
   angel:
     enabled: true
     acronyms: "O:-) O:) O+) O=) 0:-3 0:3 0:-) 0:) 0+) 0=) 0;^)"
@@ -28,6 +23,11 @@ smileys:
     acronyms: ":'> :'-> :-. :. :v :-v :blush: ^^;"
     description: "Blushing"
 
+  buck:
+    enabled: true
+    acronyms: ":8B: :8b: :B"
+    description: "Buckteeth"
+    
   confused:
     enabled: true
     acronyms: ":? :-? ^~^ %-( %( ??? :S"
