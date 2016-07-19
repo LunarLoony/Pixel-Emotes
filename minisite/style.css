@@ -1,0 +1,210 @@
+/* Stylesheet for Pixel Emotes mini-site */
+
+* {
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Actual CSS starts here */
+
+body {
+    font-family: FreeSans, Helvetica, "Open Sans", Roboto, Arial, sans-serif;
+    background-color: #e6e6e6;
+}
+
+nav {
+    display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+}
+
+nav .nav-btn {
+    padding: .7em 1em .5em 1em;
+    margin: 0 .5em 0 .5em;
+    color: #d4e5f9;
+    background-color: #2f73c4;
+    border-top: 1px solid #4381ca;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+nav a:link {
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #4381ca;
+}
+
+.header {
+    text-align: center;
+    padding: 3em 0 3.5em 0;
+    background: #2f73c4 url("images/header.png") center;
+    color: #d4e5f9;
+}
+
+.header h1 {
+    font-size: 500%;
+    padding-bottom: .1em;
+}
+
+.header h2 {
+    font-size: 180%;
+    font-weight: normal;
+}
+
+.main {
+    width: 60%;
+    min-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 4em;
+    background-color: #f5f5f5;
+    color: #444;
+    -webkit-box-shadow: 0px 6px 10px 1px rgba(145,145,145,1);
+    -moz-box-shadow: 0px 6px 10px 1px rgba(145,145,145,1);
+    box-shadow: 0px 6px 10px 1px rgba(145,145,145,1);
+}
+
+.main h3 {
+    padding-left: 2em;
+    padding-top: 1em;
+    padding-bottom: .2em;
+    margin-bottom: 1em;
+    font-size: 150%;
+    border-bottom: 1px solid lightgray;
+}
+
+.main p {
+    margin-left: 2.9em;
+    padding-bottom: 1em;
+}
+
+.main p a:link, .main p a:visited, .main p a:active {
+    color: #666;
+}
+
+.main li a:hover {
+    color: #888;
+}
+
+.popup-gallery {
+    display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+}
+
+.popup-gallery img {
+    padding: 1.5em .5em 3em .5em;
+}
+
+.popup-gallery .gallery-img {
+    height: 100px;
+}
+
+.downloadbuttons {
+    display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+}
+
+.downloadbuttons a {
+    padding: 1.2em 2em 1em 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-radius: 5px;
+}
+
+.downloadbuttons a.download-mono {
+    color: #737373;
+    background-color: #e6e6e6;
+    border: 2px solid #8c8c8c;
+}
+
+.downloadbuttons a.download-mono:hover {
+    background-color: #f5f5f5;
+}
+
+.downloadbuttons a.download-colour {
+    color: #438077;
+    background-color: #74ded0;
+    border: 2px solid #4d948a;
+}
+
+.downloadbuttons a.download-colour:hover {
+    background-color: #7df0e0;
+}
+
+.main ul, .main ol {
+    margin-left: 1.5em;
+    line-height: 120%;
+}
+
+.main ul {
+    list-style-type: square;
+}
+
+.main ul li, .main ol li {
+    padding-bottom: .5em;
+}
+
+.main li a:link, .main li a:visited, .main li a:active {
+    color: #666;
+}
+
+.main li a:hover {
+    color: #888;
+}
+
+.main table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	text-align: center;
+    table-layout: fixed;
+}
+
+.main table th {
+    color: #d4e5f9;
+    background-color: #2f73c4;
+    padding: .8em 0 .7em 0;
+}
+
+.main table tr:nth-child(odd) {
+    background-color: #fafafa;
+}
+
+.main table td {
+    padding: 1em 0 1em 0;
+}
+
+.main pre {
+    padding: 1em;
+    margin: 1em;
+    background-color: #e6e6e6;
+    width: 60%;
+    border-radius: 5px;
+    font-family: "Source Code Pro", "Ubuntu Mono", "Lucida Console", Monaco, monospace;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media all and (max-width:1024px) {
+.main {
+	width: 100%;
+	min-width: 640px;
+	}
+}
